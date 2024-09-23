@@ -72,4 +72,5 @@ export class HomePage {
     // Add the layer control to the map
     L.control.layers(baseMaps).addTo(this.map);
   }
+
 }
